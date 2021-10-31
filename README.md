@@ -12,3 +12,5 @@ Display church service dates and seats in a church to select from in order to re
 - Save seats and service dates/times to local storage so that UI is still populated on refresh
 
 Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
+
+*This project was created for [bett705](https://github.com/bett705)'s church covid seating protocols.*
